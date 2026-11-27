@@ -1,0 +1,17 @@
+{
+  "title": "2026年3月汽车工业经济运行情况",
+  "period": "2026-03",
+  "url": "https://www.miit.gov.cn/gxsj/tjfx/zbgy/qc/art/2026/art_3eee5c5b7d384a5a9e3c58cfb89f26f9.html",
+  "publication": "2026-04-10T17:04",
+  "timezone": "Asia/Shanghai",
+  "publisher": "工业和信息化部装备工业一司",
+  "statistics_origin": "中国汽车工业协会",
+  "archive_type": "结构化摘录（正文首段，当月数，原始单位为万辆）",
+  "original_unit": "万辆",
+  "monthly_figures": {
+    "汽车产量": "291.7",
+    "汽车销量": "289.9",
+    "新能源汽车产量": "123.1",
+    "新能源汽车销量": "125.2"
+  }
+}

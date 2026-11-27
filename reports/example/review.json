@@ -1,0 +1,1 @@
+{"checks": ["结构白名单", "事实编号与唯一性", "数值、期间、单位与方向由事实表渲染", "限定待核实问题与下次动作"], "errors": [], "generator": "deterministic_template", "human_status": "pending", "quality_notes": [], "rule_status": "passed"}

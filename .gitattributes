@@ -1,0 +1,2 @@
+# Source hashes cover the exact archived bytes on every checkout.
+data/raw/** -text -diff

@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "delivery_window": 3,
+  "monthly_change_pairs": 6,
+  "financial_change_pairs": 4,
+  "delivery_shock_cap": 0.25,
+  "unit_revenue_shock_cap": 0.10,
+  "delivery_fallback_shock": 0.10,
+  "unit_revenue_fallback_shock": 0.02,
+  "stress_definition": "个人敏感性假设。未知月交付与单位收入同向承压或改善；其他驱动不变。幅度取截至当时最近相邻期绝对环比的中位数（应用上限）。无可比历史采用预设压力幅度。已披露月份固定。",
+  "base_model": "ma3",
+  "evaluation_start": "2024Q1",
+  "holdout_start": "2026Q1"
+}

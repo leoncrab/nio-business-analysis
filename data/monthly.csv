@@ -1,0 +1,171 @@
+period,metric,value,raw_value,raw_unit,source_id,locator,scope
+2021-01,Q,7225,"7,225",辆,IR-M-2021-01,IR 摘录末行 · January 2021 monthly deliveries,GROUP
+2021-02,Q,5578,"5,578",辆,IR-M-2021-02,IR 摘录末行 · February 2021 monthly deliveries,GROUP
+2021-03,Q,7257,"7,257",辆,IR-M-2021-03,IR 摘录末行 · March 2021 monthly deliveries,GROUP
+2021-04,Q,7102,"7,102",辆,IR-M-2021-04,IR 摘录末行 · April 2021 monthly deliveries,GROUP
+2021-05,Q,6711,"6,711",辆,IR-M-2021-05,IR 摘录末行 · May 2021 monthly deliveries,GROUP
+2021-06,Q,8083,"8,083",辆,IR-M-2021-06,IR 摘录末行 · June 2021 monthly deliveries,GROUP
+2021-07,Q,7931,"7,931",辆,IR-M-2021-07,IR 摘录末行 · July 2021 monthly deliveries,GROUP
+2021-08,Q,5880,"5,880",辆,IR-M-2021-08,IR 摘录末行 · August 2021 monthly deliveries,GROUP
+2021-09,Q,10628,"10,628",辆,IR-M-2021-09,IR 摘录末行 · September 2021 monthly deliveries,GROUP
+2021-10,Q,3667,"3,667",辆,IR-M-2021-10,IR 摘录末行 · October 2021 monthly deliveries,GROUP
+2021-11,Q,10878,"10,878",辆,IR-M-2021-11,IR 摘录末行 · November 2021 monthly deliveries,GROUP
+2021-12,Q,10489,"10,489",辆,IR-M-2021-12,IR 摘录末行 · December 2021 monthly deliveries,GROUP
+2022-01,Q,9652,"9,652",辆,IR-M-2022-01,IR 摘录末行 · January 2022 monthly deliveries,GROUP
+2022-02,Q,6131,"6,131",辆,IR-M-2022-02,IR 摘录末行 · February 2022 monthly deliveries,GROUP
+2022-03,Q,9985,"9,985",辆,HKEX-M-2022-03,PDF p.1 · March 2022 monthly deliveries,GROUP
+2022-04,Q,5074,"5,074",辆,HKEX-M-2022-04,PDF p.1 · April 2022 monthly deliveries,GROUP
+2022-05,Q,7024,"7,024",辆,HKEX-M-2022-05,PDF p.1 · May 2022 monthly deliveries,GROUP
+2022-06,Q,12961,"12,961",辆,HKEX-M-2022-06,PDF p.1 · June 2022 monthly deliveries,GROUP
+2022-07,Q,10052,"10,052",辆,HKEX-M-2022-07,PDF p.1 · July 2022 monthly deliveries,GROUP
+2022-08,Q,10677,"10,677",辆,HKEX-M-2022-08,PDF p.1 · August 2022 monthly deliveries,GROUP
+2022-09,Q,10878,"10,878",辆,HKEX-M-2022-09,PDF p.1 · September 2022 monthly deliveries,GROUP
+2022-10,Q,10059,"10,059",辆,HKEX-M-2022-10,PDF p.1 · October 2022 monthly deliveries,GROUP
+2022-11,Q,14178,"14,178",辆,HKEX-M-2022-11,PDF p.1 · November 2022 monthly deliveries,GROUP
+2022-12,Q,15815,"15,815",辆,HKEX-M-2022-12,PDF p.1 · December 2022 monthly deliveries,GROUP
+2023-01,Q,8506,"8,506",辆,HKEX-M-2023-01,PDF p.1 · January 2023 monthly deliveries,GROUP
+2023-02,Q,12157,"12,157",辆,HKEX-M-2023-02,PDF p.5 · February 2023 monthly deliveries,GROUP
+2023-03,Q,10378,"10,378",辆,HKEX-M-2023-03,PDF p.1 · March 2023 monthly deliveries,GROUP
+2023-04,Q,6658,"6,658",辆,HKEX-M-2023-04,PDF p.1 · April 2023 monthly deliveries,GROUP
+2023-05,Q,6155,"6,155",辆,HKEX-M-2023-05,PDF p.1 · May 2023 monthly deliveries,GROUP
+2023-06,Q,10707,"10,707",辆,HKEX-M-2023-06,PDF p.1 · June 2023 monthly deliveries,GROUP
+2023-07,Q,20462,"20,462",辆,HKEX-M-2023-07,PDF p.1 · July 2023 monthly deliveries,GROUP
+2023-08,Q,19329,"19,329",辆,HKEX-M-2023-08,PDF p.1 · August 2023 monthly deliveries,GROUP
+2023-09,Q,15641,"15,641",辆,HKEX-M-2023-09,PDF p.1 · September 2023 monthly deliveries,GROUP
+2023-10,Q,16074,"16,074",辆,HKEX-M-2023-10,PDF p.1 · October 2023 monthly deliveries,GROUP
+2023-11,Q,15959,"15,959",辆,HKEX-M-2023-11,PDF p.1 · November 2023 monthly deliveries,GROUP
+2023-12,Q,18012,"18,012",辆,HKEX-M-2023-12,PDF p.1 · December 2023 monthly deliveries,GROUP
+2024-01,Q,10055,"10,055",辆,HKEX-M-2024-01,PDF p.1 · January 2024 monthly deliveries,GROUP
+2024-02,Q,8132,"8,132",辆,HKEX-M-2024-02,PDF p.1 · February 2024 monthly deliveries,GROUP
+2024-03,Q,11866,"11,866",辆,HKEX-M-2024-03,PDF p.1 · March 2024 monthly deliveries,GROUP
+2024-04,Q,15620,"15,620",辆,HKEX-M-2024-04,PDF p.1 · April 2024 monthly deliveries,GROUP
+2024-05,Q,20544,"20,544",辆,HKEX-M-2024-05,PDF p.1 · May 2024 monthly deliveries,GROUP
+2024-06,Q,21209,"21,209",辆,HKEX-M-2024-06,PDF p.1 · June 2024 monthly deliveries,GROUP
+2024-07,Q,20498,"20,498",辆,HKEX-M-2024-07,PDF p.1 · July 2024 monthly deliveries,GROUP
+2024-08,Q,20176,"20,176",辆,HKEX-M-2024-08,PDF p.1 · August 2024 monthly deliveries,GROUP
+2024-09,Q,21181,"21,181",辆,HKEX-M-2024-09,PDF p.1 · September 2024 monthly deliveries,GROUP
+2024-09,Q,20349,"20,349",辆,HKEX-M-2024-09,PDF p.1 · deliveries by brand (NIO),NIO
+2024-09,Q,832,832,辆,HKEX-M-2024-09,PDF p.1 · deliveries by brand (ONVO),ONVO
+2024-10,Q,20976,"20,976",辆,HKEX-M-2024-10,PDF p.1 · October 2024 monthly deliveries,GROUP
+2024-10,Q,16657,"16,657",辆,HKEX-M-2024-10,PDF p.1 · deliveries by brand (NIO),NIO
+2024-10,Q,4319,"4,319",辆,HKEX-M-2024-10,PDF p.1 · deliveries by brand (ONVO),ONVO
+2024-11,Q,20575,"20,575",辆,HKEX-M-2024-11,PDF p.1 · November 2024 monthly deliveries,GROUP
+2024-11,Q,15493,"15,493",辆,HKEX-M-2024-11,PDF p.1 · deliveries by brand (NIO),NIO
+2024-11,Q,5082,"5,082",辆,HKEX-M-2024-11,PDF p.1 · deliveries by brand (ONVO),ONVO
+2024-12,Q,31138,"31,138",辆,HKEX-M-2024-12,PDF p.1 · December 2024 monthly deliveries,GROUP
+2024-12,Q,20610,"20,610",辆,HKEX-M-2024-12,PDF p.1 · deliveries by brand (NIO),NIO
+2024-12,Q,10528,"10,528",辆,HKEX-M-2024-12,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-01,Q,13863,"13,863",辆,HKEX-M-2025-01,PDF p.1 · January 2025 monthly deliveries,GROUP
+2025-01,Q,7951,"7,951",辆,HKEX-M-2025-01,PDF p.1 · deliveries by brand (NIO),NIO
+2025-01,Q,5912,"5,912",辆,HKEX-M-2025-01,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-02,Q,13192,"13,192",辆,HKEX-M-2025-02,PDF p.1 · February 2025 monthly deliveries,GROUP
+2025-02,Q,9143,"9,143",辆,HKEX-M-2025-02,PDF p.1 · deliveries by brand (NIO),NIO
+2025-02,Q,4049,"4,049",辆,HKEX-M-2025-02,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-03,Q,15039,"15,039",辆,HKEX-M-2025-03,PDF p.1 · March 2025 monthly deliveries,GROUP
+2025-03,Q,10219,"10,219",辆,HKEX-M-2025-03,PDF p.1 · deliveries by brand (NIO),NIO
+2025-03,Q,4820,"4,820",辆,HKEX-M-2025-03,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-04,Q,23900,"23,900",辆,HKEX-M-2025-04,PDF p.1 · April 2025 monthly deliveries,GROUP
+2025-04,Q,19269,"19,269",辆,HKEX-M-2025-04,PDF p.1 · deliveries by brand (NIO),NIO
+2025-04,Q,4400,"4,400",辆,HKEX-M-2025-04,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-05,Q,3680,"3,680",辆,HKEX-M-2025-05,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-05,Q,23231,"23,231",辆,HKEX-M-2025-05,PDF p.1 · May 2025 monthly deliveries,GROUP
+2025-05,Q,13270,"13,270",辆,HKEX-M-2025-05,PDF p.1 · deliveries by brand (NIO),NIO
+2025-05,Q,6281,"6,281",辆,HKEX-M-2025-05,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-06,Q,3932,"3,932",辆,HKEX-M-2025-06,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-06,Q,24925,"24,925",辆,HKEX-M-2025-06,PDF p.1 · June 2025 monthly deliveries,GROUP
+2025-06,Q,14593,"14,593",辆,HKEX-M-2025-06,PDF p.1 · deliveries by brand (NIO),NIO
+2025-06,Q,6400,"6,400",辆,HKEX-M-2025-06,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-07,Q,2366,"2,366",辆,HKEX-M-2025-07,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-07,Q,21017,"21,017",辆,HKEX-M-2025-07,PDF p.1 · July 2025 monthly deliveries,GROUP
+2025-07,Q,12675,"12,675",辆,HKEX-M-2025-07,PDF p.1 · deliveries by brand (NIO),NIO
+2025-07,Q,5976,"5,976",辆,HKEX-M-2025-07,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-08,Q,4346,"4,346",辆,HKEX-M-2025-08,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-08,Q,31305,"31,305",辆,HKEX-M-2025-08,PDF p.1 · August 2025 monthly deliveries,GROUP
+2025-08,Q,10525,"10,525",辆,HKEX-M-2025-08,PDF p.1 · deliveries by brand (NIO),NIO
+2025-08,Q,16434,"16,434",辆,HKEX-M-2025-08,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-09,Q,5775,"5,775",辆,HKEX-M-2025-09,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-09,Q,34749,"34,749",辆,HKEX-M-2025-09,PDF p.1 · September 2025 monthly deliveries,GROUP
+2025-09,Q,13728,"13,728",辆,HKEX-M-2025-09,PDF p.1 · deliveries by brand (NIO),NIO
+2025-09,Q,15246,"15,246",辆,HKEX-M-2025-09,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-10,Q,5912,"5,912",辆,HKEX-M-2025-10,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-10,Q,40397,"40,397",辆,HKEX-M-2025-10,PDF p.1 · October 2025 monthly deliveries,GROUP
+2025-10,Q,17143,"17,143",辆,HKEX-M-2025-10,PDF p.1 · deliveries by brand (NIO),NIO
+2025-10,Q,17342,"17,342",辆,HKEX-M-2025-10,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-11,Q,6088,"6,088",辆,HKEX-M-2025-11,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-11,Q,36275,"36,275",辆,HKEX-M-2025-11,PDF p.1 · November 2025 monthly deliveries,GROUP
+2025-11,Q,18393,"18,393",辆,HKEX-M-2025-11,PDF p.1 · deliveries by brand (NIO),NIO
+2025-11,Q,11794,"11,794",辆,HKEX-M-2025-11,PDF p.1 · deliveries by brand (ONVO),ONVO
+2025-12,Q,7084,"7,084",辆,HKEX-M-2025-12,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2025-12,Q,48135,"48,135",辆,HKEX-M-2025-12,PDF p.1 · December 2025 monthly deliveries,GROUP
+2025-12,Q,31897,"31,897",辆,HKEX-M-2025-12,PDF p.1 · deliveries by brand (NIO),NIO
+2025-12,Q,9154,"9,154",辆,HKEX-M-2025-12,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-01,NEVRetail,596000,59.6,万辆,CPCA-2026-01,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-01,PassengerRetail,1544000,154.4,万辆,CPCA-2026-01,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-01,PassengerWholesale,1973000,197.3,万辆,CPCA-2026-01,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-01,Q,2807,"2,807",辆,HKEX-M-2026-01,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-01,Q,27182,"27,182",辆,HKEX-M-2026-01,PDF p.1 · January 2026 monthly deliveries,GROUP
+2026-01,Q,20894,"20,894",辆,HKEX-M-2026-01,PDF p.1 · deliveries by brand (NIO),NIO
+2026-01,Q,3481,"3,481",辆,HKEX-M-2026-01,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-02,NEVRetail,464000,46.4,万辆,CPCA-2026-02,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-02,PassengerRetail,1034000,103.4,万辆,CPCA-2026-02,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-02,PassengerWholesale,1518000,151.8,万辆,CPCA-2026-02,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-02,Q,2657,"2,657",辆,HKEX-M-2026-02,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-02,Q,20797,"20,797",辆,HKEX-M-2026-02,PDF p.1 · February 2026 monthly deliveries,GROUP
+2026-02,Q,15159,"15,159",辆,HKEX-M-2026-02,PDF p.1 · deliveries by brand (NIO),NIO
+2026-02,Q,2981,"2,981",辆,HKEX-M-2026-02,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-03,NEVRetail,848000,84.8,万辆,CPCA-2026-03,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-03,PassengerRetail,1648000,164.8,万辆,CPCA-2026-03,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-03,PassengerWholesale,2378000,237.8,万辆,CPCA-2026-03,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-03,Q,6119,"6,119",辆,HKEX-M-2026-03,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-03,Q,35486,"35,486",辆,HKEX-M-2026-03,PDF p.1 · March 2026 monthly deliveries,GROUP
+2026-03,Q,22490,"22,490",辆,HKEX-M-2026-03,PDF p.1 · deliveries by brand (NIO),NIO
+2026-03,Q,6877,"6,877",辆,HKEX-M-2026-03,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-04,NEVRetail,849000,84.9,万辆,CPCA-2026-04,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-04,PassengerRetail,1384000,138.4,万辆,CPCA-2026-04,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-04,PassengerWholesale,2110000,211.0,万辆,CPCA-2026-04,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-04,Q,4980,"4,980",辆,HKEX-M-2026-04,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-04,Q,29356,"29,356",辆,HKEX-M-2026-04,PDF p.1 · April 2026 monthly deliveries,GROUP
+2026-04,Q,19024,"19,024",辆,HKEX-M-2026-04,PDF p.1 · deliveries by brand (NIO),NIO
+2026-04,Q,5352,"5,352",辆,HKEX-M-2026-04,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-05,NEVRetail,950000,95.0,万辆,CPCA-2026-05,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-05,PassengerRetail,1510000,151.0,万辆,CPCA-2026-05,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-05,PassengerWholesale,2212000,221.2,万辆,CPCA-2026-05,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-05,Q,5663,"5,663",辆,HKEX-M-2026-05,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-05,Q,37705,"37,705",辆,HKEX-M-2026-05,PDF p.1 · May 2026 monthly deliveries,GROUP
+2026-05,Q,20013,"20,013",辆,HKEX-M-2026-05,PDF p.1 · deliveries by brand (NIO),NIO
+2026-05,Q,12029,"12,029",辆,HKEX-M-2026-05,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-06,NEVRetail,1007000,100.7,万辆,CPCA-2026-06,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-06,PassengerRetail,1602000,160.2,万辆,CPCA-2026-06,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-06,PassengerWholesale,2358000,235.8,万辆,CPCA-2026-06,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-06,Q,6946,"6,946",辆,HKEX-M-2026-06,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-06,Q,40597,"40,597",辆,HKEX-M-2026-06,PDF p.1 · June 2026 monthly deliveries,GROUP
+2026-06,Q,21908,"21,908",辆,HKEX-M-2026-06,PDF p.1 · deliveries by brand (NIO),NIO
+2026-06,Q,11743,"11,743",辆,HKEX-M-2026-06,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-07,NEVRetail,951000,95.1,万辆,CPCA-2026-07,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-07,PassengerRetail,1461000,146.1,万辆,CPCA-2026-07,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-07,PassengerWholesale,2252000,225.2,万辆,CPCA-2026-07,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-07,Q,5771,"5,771",辆,HKEX-M-2026-07,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-07,Q,35934,"35,934",辆,HKEX-M-2026-07,PDF p.1 · July 2026 monthly deliveries,GROUP
+2026-07,Q,20008,"20,008",辆,HKEX-M-2026-07,PDF p.1 · deliveries by brand (NIO),NIO
+2026-07,Q,10155,"10,155",辆,HKEX-M-2026-07,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-08,NEVRetail,1005000,100.5,万辆,CPCA-2026-08,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-08,PassengerRetail,1541000,154.1,万辆,CPCA-2026-08,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-08,PassengerWholesale,2353000,235.3,万辆,CPCA-2026-08,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-08,Q,5852,"5,852",辆,HKEX-M-2026-08,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-08,Q,35836,"35,836",辆,HKEX-M-2026-08,PDF p.1 · August 2026 monthly deliveries,GROUP
+2026-08,Q,21174,"21,174",辆,HKEX-M-2026-08,PDF p.1 · deliveries by brand (NIO),NIO
+2026-08,Q,8810,"8,810",辆,HKEX-M-2026-08,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-09,NEVRetail,1084000,108.4,万辆,CPCA-2026-09,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-09,PassengerRetail,1618000,161.8,万辆,CPCA-2026-09,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-09,PassengerWholesale,2549000,254.9,万辆,CPCA-2026-09,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-09,Q,7327,"7,327",辆,HKEX-M-2026-09,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-09,Q,37408,"37,408",辆,HKEX-M-2026-09,PDF p.1 · September 2026 monthly deliveries,GROUP
+2026-09,Q,21318,"21,318",辆,HKEX-M-2026-09,PDF p.1 · deliveries by brand (NIO),NIO
+2026-09,Q,8763,"8,763",辆,HKEX-M-2026-09,PDF p.1 · deliveries by brand (ONVO),ONVO
+2026-10,NEVRetail,1109000,110.9,万辆,CPCA-2026-10,全国乘用车市场回顾 · 新能源零售,CN_PASSENGER_RETAIL
+2026-10,PassengerRetail,1643000,164.3,万辆,CPCA-2026-10,全国乘用车市场回顾 · 零售,CN_PASSENGER_RETAIL
+2026-10,PassengerWholesale,2633000,263.3,万辆,CPCA-2026-10,全国乘用车市场回顾 · 厂商批发,CN_PASSENGER_WHOLESALE
+2026-10,Q,7738,"7,738",辆,HKEX-M-2026-10,PDF p.1 · deliveries by brand (FIREFLY),FIREFLY
+2026-10,Q,34246,"34,246",辆,HKEX-M-2026-10,PDF p.1 · October 2026 monthly deliveries,GROUP
+2026-10,Q,18125,"18,125",辆,HKEX-M-2026-10,PDF p.1 · deliveries by brand (NIO),NIO
+2026-10,Q,8383,"8,383",辆,HKEX-M-2026-10,PDF p.1 · deliveries by brand (ONVO),ONVO

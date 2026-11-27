@@ -1,0 +1,3 @@
+# The CLI, SQLite pipeline, dashboard generator and tests use Python 3.10+ stdlib.
+# Install this only to re-extract the normalized CSVs from the archived PDFs.
+pypdf==6.21.4

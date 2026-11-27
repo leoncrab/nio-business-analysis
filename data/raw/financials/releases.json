@@ -1,0 +1,214 @@
+[
+  {
+    "period": "2021Q4",
+    "title": "ANNOUNCEMENT OF THE FOURTH QUARTER AND FULL YEAR 2021 RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2022/0325/2022032500015.pdf",
+    "published_date": "2022-03-25",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2022-03-25T06:08",
+    "file": "2021Q4.pdf",
+    "sha256": "89771665a6b9e903d2640b11e2c50d2270eaa1b6f02214bade26b598a871a05c"
+  },
+  {
+    "period": "2022Q1",
+    "title": "ANNOUNCEMENT OF THE 2022 FIRST QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2022/0609/2022060900582.pdf",
+    "published_date": "2022-06-09",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2022-06-09T18:00",
+    "file": "2022Q1.pdf",
+    "sha256": "cde1cfab46319ad96903c18540df8e4389b8a2d019d1a4a96dd0a6e66bf4a438"
+  },
+  {
+    "period": "2022Q2",
+    "title": "ANNOUNCEMENT OF THE 2022 SECOND QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2022/0907/2022090700671.pdf",
+    "published_date": "2022-09-07",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2022-09-07T17:30",
+    "file": "2022Q2.pdf",
+    "sha256": "f8ddcb1392dffd1449133465595ff3479f6c55ace97c9710da29d54616148946"
+  },
+  {
+    "period": "2022Q3",
+    "title": "ANNOUNCEMENT OF THE 2022 THIRD QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2022/1110/2022111000712.pdf",
+    "published_date": "2022-11-10",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2022-11-10T18:05",
+    "file": "2022Q3.pdf",
+    "sha256": "48763a0aa177102cc510c2f2a90ccadea4c87e7ef18de5ee4ad85b20b3dfa54e"
+  },
+  {
+    "period": "2022Q4",
+    "kind": "delivery_outlook_update",
+    "file": "2022Q4-outlook-update.pdf",
+    "title": "INSIDE INFORMATION - NIO INC. PRUDENTLY ADJUSTS FOURTH QUARTER 2022 DELIVERY OUTLOOK",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2022/1227/2022122700187.pdf",
+    "published_date": "2022-12-27",
+    "published_at_local": "2022-12-27T19:42",
+    "timezone": "Asia/Hong_Kong",
+    "sha256": "580a257ec757c5f449a156a4c2fe442e955ad62c41f0554bc5a692e2883cd1aa"
+  },
+  {
+    "period": "2022Q4",
+    "title": "ANNOUNCEMENT OF THE FOURTH QUARTER AND FULL YEAR 2022 RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2023/0301/2023030102911.pdf",
+    "published_date": "2023-03-01",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2023-03-01T18:53",
+    "file": "2022Q4.pdf",
+    "sha256": "68e01d38cfe8f682686027e9cabcd77b2d841f2b573c4e33a81161742ab3fc4a"
+  },
+  {
+    "period": "2023Q1",
+    "title": "ANNOUNCEMENT OF THE 2023 FIRST QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2023/0609/2023060900903.pdf",
+    "published_date": "2023-06-09",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2023-06-09T18:00",
+    "file": "2023Q1.pdf",
+    "sha256": "c2db890489dd0e6057f091289255688810e83c9a1dc9e42715bf8ef1340320ee"
+  },
+  {
+    "period": "2023Q2",
+    "title": "ANNOUNCEMENT OF THE 2023 SECOND QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2023/0829/2023082900863.pdf",
+    "published_date": "2023-08-29",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2023-08-29T18:43",
+    "file": "2023Q2.pdf",
+    "sha256": "4d0d10d688125470eb09de9f5eb9a9f52124cfad2058f54d1b8e43f3fed10b36"
+  },
+  {
+    "period": "2023Q3",
+    "title": "ANNOUNCEMENT OF THE 2023 THIRD QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2023/1205/2023120501464.pdf",
+    "published_date": "2023-12-05",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2023-12-05T17:30",
+    "file": "2023Q3.pdf",
+    "sha256": "9d2efcddfa6280dcc690edbcff85bfe89f56b5fbf2e11d958e27eff9a879da2b"
+  },
+  {
+    "period": "2023Q4",
+    "title": "ANNOUNCEMENT OF THE 2023 FOURTH QUARTER AND FULL YEAR RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0305/2024030501478.pdf",
+    "published_date": "2024-03-05",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2024-03-05T18:11",
+    "file": "2023Q4.pdf",
+    "sha256": "da48d54ca735129edbc1f3498db0fa16c22a9fb6aeb6bbbb42006d8520386ae8"
+  },
+  {
+    "period": "2024Q1",
+    "kind": "delivery_outlook_update",
+    "file": "2024Q1-outlook-update.pdf",
+    "title": "INSIDE INFORMATION - NIO INC. PRUDENTLY ADJUSTS FIRST QUARTER 2024 DELIVERY OUTLOOK",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0327/2024032701199.pdf",
+    "published_date": "2024-03-27",
+    "published_at_local": "2024-03-27T17:54",
+    "timezone": "Asia/Hong_Kong",
+    "sha256": "514499d50db92b533a0f5b3b5af9000272d864e1eb7dc90839c6ca574fda8697"
+  },
+  {
+    "period": "2024Q1",
+    "title": "ANNOUNCEMENT OF THE 2024 FIRST QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0606/2024060601515.pdf",
+    "published_date": "2024-06-06",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2024-06-06T18:48",
+    "file": "2024Q1.pdf",
+    "sha256": "cbdbe289def9968184c3e157636e12001e8343c1cb70a0fff46fac1845b84d29"
+  },
+  {
+    "period": "2024Q2",
+    "title": "ANNOUNCEMENT OF THE 2024 SECOND QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/0905/2024090501700.pdf",
+    "published_date": "2024-09-05",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2024-09-05T18:06",
+    "file": "2024Q2.pdf",
+    "sha256": "00891fbb3f2a24b79aee04a0accb46a5694e7e87a8bae04a64a0bb30a72e11a3"
+  },
+  {
+    "period": "2024Q3",
+    "title": "ANNOUNCEMENT OF THE 2024 THIRD QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2024/1120/2024112000505.pdf",
+    "published_date": "2024-11-20",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2024-11-20T17:39",
+    "file": "2024Q3.pdf",
+    "sha256": "7dfbad462fad1d5671cd7bae6e41b5d961beefc16e15edd0c836fbac6f1f0c68"
+  },
+  {
+    "period": "2024Q4",
+    "title": "ANNOUNCEMENT OF THE 2024 FOURTH QUARTER AND FULL YEAR RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0321/2025032100788.pdf",
+    "published_date": "2025-03-21",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2025-03-21T17:37",
+    "file": "2024Q4.pdf",
+    "sha256": "f16076d550ed1dec66ebad8bb46e0c22c9b1d8c65795f04bff5b45f77da70d63"
+  },
+  {
+    "period": "2025Q1",
+    "title": "ANNOUNCEMENT OF THE 2025 FIRST QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0603/2025060302447.pdf",
+    "published_date": "2025-06-03",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2025-06-03T19:53",
+    "file": "2025Q1.pdf",
+    "sha256": "2d8739c1928236578e2e59510248000ab705020a1e208742d145326f8ad47fc6"
+  },
+  {
+    "period": "2025Q2",
+    "title": "ANNOUNCEMENT OF THE 2025 SECOND QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0902/2025090201895.pdf",
+    "published_date": "2025-09-02",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2025-09-02T18:50",
+    "file": "2025Q2.pdf",
+    "sha256": "1bae6684adebede2100ac68fd960d3a15367a67846c2173dfef2e2f8cc9bfe5d"
+  },
+  {
+    "period": "2025Q3",
+    "title": "ANNOUNCEMENT OF THE 2025 THIRD QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/1125/2025112501039.pdf",
+    "published_date": "2025-11-25",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2025-11-25T18:38",
+    "file": "2025Q3.pdf",
+    "sha256": "9ac5cedcf37aa29fbebf9f9f8eb430c78b071ecc1d744a4e2e22dfff1a0fcedc"
+  },
+  {
+    "period": "2025Q4",
+    "title": "ANNOUNCEMENT OF THE 2025 FOURTH QUARTER AND FULL YEAR RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0310/2026031001132.pdf",
+    "published_date": "2026-03-10",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2026-03-10T19:17",
+    "file": "2025Q4.pdf",
+    "sha256": "c33f71604601d8ed9602091b6210684a100b5594a3c91aee46e3721dc205b0b3"
+  },
+  {
+    "period": "2026Q1",
+    "title": "ANNOUNCEMENT OF THE 2026 FIRST QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0521/2026052100995.pdf",
+    "published_date": "2026-05-21",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2026-05-21T18:21",
+    "file": "2026Q1.pdf",
+    "sha256": "664451590a208aca4c2552f5f9173e7f63eae20c954bb89ed000b9abbec165cd"
+  },
+  {
+    "period": "2026Q2",
+    "title": "ANNOUNCEMENT OF THE 2026 SECOND QUARTER RESULTS",
+    "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0901/2026090102911.pdf",
+    "published_date": "2026-09-01",
+    "timezone": "Asia/Hong_Kong",
+    "published_at_local": "2026-09-01T18:01",
+    "file": "2026Q2.pdf",
+    "sha256": "b803f022d90c82b142ea4794055d4d2af5a6c773f674e5f3da4a97f4fc9360c3"
+  }
+]
